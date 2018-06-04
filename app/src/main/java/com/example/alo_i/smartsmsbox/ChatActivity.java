@@ -67,7 +67,7 @@ public class ChatActivity extends AppCompatActivity{
     LocationManager myLocManager;
 
 
-    public static boolean isItOpened = false;
+    public static boolean isItOpened = false;//when this activity is opened true
 
 
     @Override
